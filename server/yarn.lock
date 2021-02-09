@@ -8890,10 +8890,10 @@ sqlite3@latest:
     nan "^2.12.1"
     node-pre-gyp "^0.11.0"
 
-square-connect@3.20200528.0:
-  version "3.20200528.0"
-  resolved "https://registry.yarnpkg.com/square-connect/-/square-connect-3.20200528.0.tgz#48fc47fe8cb762a35396b19496aeefd2e76ceeed"
-  integrity sha512-as3FBlOLECIeSK7KeFS9pi4kVQxAeXAqKiLaTD99oDHApKcLk52zNbjYfBbn4z2Gklb1sNXhdputsFnfkc6kuQ==
+square-connect@6.20201216.0:
+  version "6.20201216.0"
+  resolved "https://registry.yarnpkg.com/square-connect/-/square-connect-6.20201216.0.tgz#43f9a482b3c0a0668115bbf8f9a7ae2a7d8e3b8e"
+  integrity sha512-QjTsyokZbrq5Mdc2gwZxsefrYmJcXDml/MSO09yBvmyDVrLy42YaR4jO1Kjux/tDMHtD4QJtl0sr1G3D2vl8Dw==
   dependencies:
     superagent "3.8.3"
 
